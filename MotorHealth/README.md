@@ -41,7 +41,7 @@ Every second, the ESP32-S3 extracts:
 
 ---
 
-## 🔌 Hardware Configuration & Pin Mapping
+##  Hardware Configuration & Pin Mapping
 
 | Component | Interface | ESP32-S3 GPIO | Notes |
 | :--- | :--- | :--- | :--- |
@@ -68,7 +68,7 @@ Every second, the ESP32-S3 extracts:
 
 ---
 
-## 🚀 Procedure for Replication (From Scratch)
+## Procedure for Replication (From Scratch)
 
 If you are setting up this project from a fresh environment, follow these steps.
 
